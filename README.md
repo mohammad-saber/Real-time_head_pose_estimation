@@ -1,5 +1,4 @@
 # Real-time_head_pose_estimation
-Real-time head pose estimation
 
 
 This code is an implementation of head pose estimation (for a single image and webcam). 
@@ -13,7 +12,7 @@ Please download dlib pre-trained facial landmark detector [here](http://dlib.net
 
 # Dependencies:
 
-* Python 3.6.8
+* Python 3.6.7
 
 * numpy 1.18.1
 
@@ -59,5 +58,5 @@ Dlib can be installed by conda as explaniend [here](https://anaconda.org/menpo/d
 
 # Sources
 
-https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib
-https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python
+[Head Pose Estimation](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib)
+[dlib facial landmark detection](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python)
