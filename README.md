@@ -8,7 +8,7 @@ For head pose estimation, I used the algorithm explained [here](https://www.lear
 Please download dlib pre-trained facial landmark detector [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2). 
 
 ## Sample result for a single image
-![Face_landmark](https://user-images.githubusercontent.com/38423900/74125416-9884fd80-4c18-11ea-8a4e-06bd3a717813.jpg)
+![Result](https://user-images.githubusercontent.com/38423900/76159128-9606bc80-6160-11ea-912a-78a57f307f45.png)
 
 
 # Dependencies:
