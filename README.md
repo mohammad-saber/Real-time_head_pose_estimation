@@ -7,7 +7,7 @@ For head pose estimation, I used the algorithm explained [here](https://www.lear
 Please download dlib pre-trained facial landmark detector [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2). 
 
 ## Sample result for a single image
-![Result](https://user-images.githubusercontent.com/38423900/76159128-9606bc80-6160-11ea-912a-78a57f307f45.png)
+<img width="336" alt="Result" src="https://user-images.githubusercontent.com/38423900/76159276-0b26c180-6162-11ea-8c85-abf870410e13.png">
 
 
 # Dependencies:
@@ -51,7 +51,7 @@ Finally, close the command prompt and open a new command prompt. Now, you can im
 **Note:** There is no wheel file for Python 3.7 for Windows environment. Please use Python 3.6. 
 
 
-### Installation by conda install
+### Installation by conda 
 Dlib can be installed by conda as explaniend [here](https://anaconda.org/menpo/dlib).
 
 
