@@ -59,4 +59,5 @@ Dlib can be installed by conda as explaniend [here](https://anaconda.org/menpo/d
 # Sources
 
 [Head Pose Estimation](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib)
+
 [dlib facial landmark detection](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python)
