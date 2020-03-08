@@ -7,11 +7,17 @@ For head pose estimation, I used the algorithm explained [here](https://www.lear
 
 Please download dlib pre-trained facial landmark detector [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2). 
 
+## Sample result for a single image
+![Face_landmark](https://user-images.githubusercontent.com/38423900/74125416-9884fd80-4c18-11ea-8a4e-06bd3a717813.jpg)
 
-# Sources
 
-https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib
-https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python
+# Dependencies:
+
+* Python 3.6.8
+
+* numpy 1.18.1
+
+* Opencv 4.2.0
 
 
 # How to install dlib
@@ -51,4 +57,7 @@ Dlib can be installed by conda as explaniend [here](https://anaconda.org/menpo/d
 
 
 
+# Sources
 
+https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python
