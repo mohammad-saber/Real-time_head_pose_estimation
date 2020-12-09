@@ -1,7 +1,7 @@
 # Real-time_head_pose_estimation
 
 
-This code is an implementation of head pose estimation (for a single image and webcam). 
+This code is an implementation of head pose estimation for a single image (HPE_image.py) and webcam (HPE_webcam.py). 
 For head pose estimation, I used the algorithm explained [here](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/), and integrated it with dlib's facial landmark detector to make it real-time. 
 
 Please download dlib pre-trained facial landmark detector [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2). 
